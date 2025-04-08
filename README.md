@@ -30,8 +30,8 @@ A secure and reliable Java-based application for storing and managing sensitive 
 - **Maven**
 - **JavaMail API**
 - **JDBC**
+
 👨‍💻 Developed by
 Nitish Paramanik
 Java Developer | Security Enthusiast | File Whisperer
-Let me know if you’d like to include screenshots, API documentation, or any specific usage.
 
